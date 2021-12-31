@@ -4,7 +4,7 @@
 -->
 <ScanPattern xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Version>1.0.0</Version>
-  <PatternID>Skyarch-Custom-Linux-EC2_GetMeta_instanceid</PatternID>
+  <PatternID>Custom-Linux-EC2_GetMeta_instanceid</PatternID>
   <OrderNr>10</OrderNr>
   <ProcessType>SSHExecute</ProcessType>
   <PatternType>Host</PatternType>
